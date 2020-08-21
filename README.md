@@ -1,4 +1,4 @@
-# Fashion-AI
+# Fashion-ML
 
 # pip install:
 ### pip install tensorflow
